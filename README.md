@@ -4,7 +4,7 @@ Many people have been asking me to release my solar panels from my various parts
 
 I kept the original directory structures intact so if you already have my other parts packs this will merge into those folders and use the already existing assets preventing unnecessary raising of RAM usage.
 
-##If you enjoy this mod consider downloading my other mods from which these panels are derived.
+**If you enjoy this mod consider downloading my other mods from which these panels are derived.**
 
 **Picture Album:** http://imgur.com/a/CbZI8
 
