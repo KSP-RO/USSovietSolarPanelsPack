@@ -23,7 +23,11 @@ Unzip into your KSP main folder. Overwrite if you have any of my other packs ins
 Some US panels: NASA JPL
 
 ##LICENSE:
-[https://creativecommons.org/licenses/by-nc-nd/3.0/us/](https://creativecommons.org/licenses/by-nc-nd/3.0/us/)
+
+![alt tag](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
+
+https://creativecommons.org/licenses/by-nc-nd/3.0/us/
+
 
 **This license does not cover mod packs. Putting my work into a mod pack is prohibited.**
 
