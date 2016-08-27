@@ -1,18 +1,14 @@
-**Here is a module manager patch to update these panels to work as radiators until I release the next version: [https://www.mediafire.com/?wj845ln1j19iric](https://www.mediafire.com/?wj845ln1j19iric)**
-
-Many people have been asking me to release my solar panels from my various parts packs as their own standalone pack. Here it is! This pack contains most of the solar panels from my US and Soviet parts packs. The panels permanently attached to their respective crafts have been separated and modified to work as standalone parts. The solar panels that were already separate parts are also included. 
+Many people have been asking me to release my solar panels from my various parts packs as their own standalone pack. Here it is! This pack contains most of the solar panels from my US and Soviet parts packs. The panels permanently attached to their respective crafts have been separated and modified to work as standalone parts. The solar panels that were already separate parts are NOT included. 
 
 I kept the original directory structures intact so if you already have my other parts packs this will merge into those folders and use the already existing assets preventing unnecessary raising of RAM usage.
 
 **If you enjoy this mod consider downloading my other mods from which these panels are derived.**
 
-**Picture Album:** http://imgur.com/a/CbZI8
-
-![alt tag](http://i.imgur.com/LNsZZE5.png)
+![alt tag](http://i.imgur.com/Lj22iab.png)
 
 ##INSTALLATION:
 
-Unzip into your KSP main folder. Overwrite if you have any of my other packs installed already.
+Remove old version first. Unzip into your KSP main folder.
 
 ##NOTES:
 

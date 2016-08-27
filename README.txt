@@ -20,7 +20,7 @@ THIS LICENSE DOES NOT COVER MOD PACKS. USING MY WORK IN A MOD PACK IS PROHIBITED
 INSTALL
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Unzip into your KSP main folder. Overwrite if you have any of my other packs installed already.
+Unzip into your KSP main folder.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
