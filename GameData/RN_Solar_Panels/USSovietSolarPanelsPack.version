@@ -1,0 +1,37 @@
+{
+    "NAME":"US and Soviet Solar Panels Pack",
+    "URL":"http://raw.githubusercontent.com/KSP-RO/USSovietSolarPanelsPack/master/GameData/RN_Solar_Panels/USSovietSolarPanelsPack.version",
+    "DOWNLOAD":"https://github.com/KSP-RO/USSovietSolarPanelsPack/releases",
+    "GITHUB":
+    {
+        "USERNAME":"raidernick",
+        "REPOSITORY":"USSovietSolarPanelsPack",
+        "ALLOW_PRE_RELEASE":false,
+    },
+    "VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 0,
+        "BUILD": 0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 2,
+		"BUILD": 0
+    },
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 2,
+		"PATCH": 0,
+		"BUILD": 0
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 2,
+		"PATCH": 2,
+		"BUILD": 0
+	}
+}
